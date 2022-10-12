@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/vi/</loc>
+    <loc>http://blog.medal.works/vi/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="http://blog.medal.works/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/"
+                href="http://blog.medal.works/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://example.org/vi/"
+                href="http://blog.medal.works/vi/"
                 />
   </url><url>
-    <loc>http://example.org/vi/categories/</loc>
+    <loc>http://blog.medal.works/vi/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="http://blog.medal.works/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/categories/"
+                href="http://blog.medal.works/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://example.org/vi/categories/"
+                href="http://blog.medal.works/vi/categories/"
                 />
   </url><url>
-    <loc>http://example.org/vi/tags/</loc>
+    <loc>http://blog.medal.works/vi/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="http://blog.medal.works/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/"
+                href="http://blog.medal.works/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://example.org/vi/tags/"
+                href="http://blog.medal.works/vi/tags/"
                 />
   </url>
 </urlset>

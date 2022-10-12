@@ -2,26 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog of Medal.works</title>
-    <link>http://example.org/</link>
+    <link>http://blog.medal.works/</link>
     <description>Recent content on Blog of Medal.works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Oct 2022 21:33:45 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Oct 2022 21:46:23 +0800</lastBuildDate><atom:link href="http://blog.medal.works/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Xroom</title>
+      <link>http://blog.medal.works/medal/xroom/</link>
+      <pubDate>Wed, 12 Oct 2022 21:46:23 +0800</pubDate>
+      
+      <guid>http://blog.medal.works/medal/xroom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obc</title>
+      <link>http://blog.medal.works/medal/obc/</link>
+      <pubDate>Wed, 12 Oct 2022 21:46:13 +0800</pubDate>
+      
+      <guid>http://blog.medal.works/medal/obc/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>So</title>
-      <link>http://example.org/thoughts/so/</link>
+      <link>http://blog.medal.works/thoughts/so/</link>
       <pubDate>Wed, 12 Oct 2022 21:33:45 +0800</pubDate>
       
-      <guid>http://example.org/thoughts/so/</guid>
+      <guid>http://blog.medal.works/thoughts/so/</guid>
       <description>My thoughts about Medal ohh</description>
     </item>
     
     <item>
+      <title>About</title>
+      <link>http://blog.medal.works/about/</link>
+      <pubDate>Wed, 12 Oct 2022 13:44:07 +0800</pubDate>
+      
+      <guid>http://blog.medal.works/about/</guid>
+      <description>about me</description>
+    </item>
+    
+    <item>
       <title></title>
-      <link>http://example.org/readme/</link>
+      <link>http://blog.medal.works/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/readme/</guid>
+      <guid>http://blog.medal.works/readme/</guid>
       <description>Medal.works is an exploration of WorkFi, based on Proof-of-Work absolutly.
 Meanwhile, MEDAL is an abbreviation of Medal Ecosystem Decentralized Autonomous League.</description>
     </item>

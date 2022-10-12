@@ -2,19 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Medal.eco 博客</title>
-    <link>http://example.org/zh/</link>
+    <link>http://blog.medal.works/zh/</link>
     <description>Recent content on Medal.eco 博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Oct 2022 16:15:18 +0800</lastBuildDate><atom:link href="http://example.org/zh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Oct 2022 16:15:18 +0800</lastBuildDate><atom:link href="http://blog.medal.works/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://blog.medal.works/zh/about/</link>
+      <pubDate>Wed, 12 Oct 2022 13:44:07 +0800</pubDate>
+      
+      <guid>http://blog.medal.works/zh/about/</guid>
+      <description>about me
+帅，连续创业者，985退学，</description>
+    </item>
+    
     <item>
       <title>Obc</title>
-      <link>http://example.org/medal/obc/</link>
+      <link>http://blog.medal.works/medal/obc/</link>
       <pubDate>Sun, 09 Oct 2022 16:15:18 +0800</pubDate>
       
-      <guid>http://example.org/medal/obc/</guid>
-      <description>1. 什么是OBC？ OOBB.cc 是web3.0的导航门户， 释义：OO像眼镜，而BB则是₿，cc则是 see see。 这样易于记忆。
-2. OBC和&amp;quot;我&amp;quot;有什么关系？ 这里应该是一些文章，散列，思路等； 具体的可以在白皮书里出现。</description>
+      <guid>http://blog.medal.works/medal/obc/</guid>
+      <description>1. 什么是OBC？ # OOBB.cc 是web3.0的导航门户， 释义：OO像眼镜，而BB则是₿，cc则是 see see。 这样易于记忆。
+2. OBC和&amp;quot;我&amp;quot;有什么关系？ # 这里应该是一些文章，散列，思路等； 具体的可以在白皮书里出现。</description>
     </item>
     
   </channel>

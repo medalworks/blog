@@ -2,80 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2022-10-12T21:33:45+08:00</lastmod>
+    <loc>http://blog.medal.works/</loc>
+    <lastmod>2022-10-12T21:46:23+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/"
+                href="http://blog.medal.works/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://example.org/vi/"
+                href="http://blog.medal.works/vi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="http://blog.medal.works/"
                 />
   </url><url>
-    <loc>http://example.org/thoughts/</loc>
-    <lastmod>2022-10-12T21:33:45+08:00</lastmod>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://example.org/thoughts/so/</loc>
-    <lastmod>2022-10-12T21:33:45+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/medal/</loc>
+    <loc>http://blog.medal.works/medal/</loc>
+    <lastmod>2022-10-12T21:46:23+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/medal/"
+                href="http://blog.medal.works/zh/medal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/medal/"
+                href="http://blog.medal.works/medal/"
                 />
   </url><url>
-    <loc>http://example.org/readme/</loc>
-    <priority>0</priority>
+    <loc>http://blog.medal.works/medal/xroom/</loc>
+    <lastmod>2022-10-12T21:46:23+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://blog.medal.works/medal/obc/</loc>
+    <lastmod>2022-10-12T21:46:13+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/categories/"
+                href="http://blog.medal.works/medal/obc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://blog.medal.works/medal/obc/"
+                />
+  </url><url>
+    <loc>http://blog.medal.works/thoughts/</loc>
+    <lastmod>2022-10-12T21:33:45+08:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://blog.medal.works/thoughts/so/</loc>
+    <lastmod>2022-10-12T21:33:45+08:00</lastmod>
+  </url><url>
+    <loc>http://blog.medal.works/about/</loc>
+    <lastmod>2022-10-12T13:44:07+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://blog.medal.works/zh/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://blog.medal.works/about/"
+                />
+  </url><url>
+    <loc>http://blog.medal.works/readme/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://blog.medal.works/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://blog.medal.works/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://example.org/vi/categories/"
+                href="http://blog.medal.works/vi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="http://blog.medal.works/categories/"
                 />
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://blog.medal.works/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/"
+                href="http://blog.medal.works/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://example.org/vi/tags/"
+                href="http://blog.medal.works/vi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="http://blog.medal.works/tags/"
                 />
   </url>
 </urlset>
