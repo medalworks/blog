@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog of Medal.works</title>
+    <link>http://example.org/thoughts/</link>
+    <description>Recent content on Blog of Medal.works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Oct 2022 21:33:45 +0800</lastBuildDate><atom:link href="http://example.org/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>So</title>
+      <link>http://example.org/thoughts/so/</link>
+      <pubDate>Wed, 12 Oct 2022 21:33:45 +0800</pubDate>
+      
+      <guid>http://example.org/thoughts/so/</guid>
+      <description>My thoughts about Medal ohh</description>
+    </item>
+    
+  </channel>
+</rss>
